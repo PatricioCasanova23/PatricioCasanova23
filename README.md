@@ -34,6 +34,8 @@
 
 <h4 align="center">Pueden comunicarse  en..  👇</h4>
 <h2 align="center">patriciocasanova@outlook.com.ar</h2>
+[Linkedin](https://www.linkedin.com/in/patricio-casanova-479037245/)
+
 
 ###
 
