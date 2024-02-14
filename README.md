@@ -3,7 +3,7 @@
 
 < p align="left"> <img src="https://komarev.com/ghpvc/?username=patriciocasanova23&label=Profile%20views&color=0e75b6&style=flat" alt="patriciocasanova23" /> </p>
 
-<p align= "izquierda"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username= patriciocasanova23" alt="patriciocasanova23" /></a> </p>
+<p align= "right"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username= patriciocasanova23" alt="patriciocasanova23" /></a> </p>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
