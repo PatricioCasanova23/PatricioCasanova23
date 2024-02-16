@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="58" alt="php logo"  />
   <img width="39" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="58" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="58" alt="java logo"  />
 </div>
 
 ###
